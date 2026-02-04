@@ -1,5 +1,5 @@
-# Inderbir Singh Gill Personalized Website :)))
-## Project Structure
+# Inderbir Singh Gill
+## Project Structure ** need to update readme
 
 ```
 personal-website/
